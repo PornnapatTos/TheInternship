@@ -1,0 +1,36 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FloatingPrime",
+            "request": "launch",
+            "mainClass": "FloatingPrime",
+            "projectName": "Intership_35e9c29f"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DigitHangman",
+            "request": "launch",
+            "mainClass": "DigitHangman",
+            "projectName": "Intership_35e9c29f"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SortingAcronym",
+            "request": "launch",
+            "mainClass": "SortingAcronym",
+            "projectName": "Intership_35e9c29f"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BasicWebCrawler",
+            "request": "launch",
+            "mainClass": "BasicWebCrawler",
+            "projectName": "Intership_35e9c29f"
+        }
+    ]
+}
